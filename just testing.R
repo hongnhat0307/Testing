@@ -5,3 +5,6 @@ print "what is happening to the x?"
 print "what will it do then?"
 print "this is annoiying"
 
+print "this is wierd"
+
+print "why is it keep marking me wrong?"
